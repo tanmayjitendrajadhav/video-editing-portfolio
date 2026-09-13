@@ -1,4 +1,4 @@
-TEJAS VIDEO EDITOR PORTFOLIO
+Tanmay VIDEO EDITOR PORTFOLIO
 
 Open index.html with VS Code + Live Server.
 
